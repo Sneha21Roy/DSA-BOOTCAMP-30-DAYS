@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0733-flood-fill) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
