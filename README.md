@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0008-string-to-integer-atoi) |
+| [0032-longest-valid-parentheses](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0032-longest-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -25,4 +26,16 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
