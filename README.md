@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0027-remove-element) |
 | [0733-flood-fill](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0733-flood-fill) |
 ## Depth-First Search
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0032-longest-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
