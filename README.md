@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0027-remove-element) |
 | [0733-flood-fill](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0733-flood-fill) |
 ## Depth-First Search
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sneha21Roy/DSA-BOOTCAMP-30-DAYS/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
